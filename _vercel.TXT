@@ -1,1 +1,0 @@
-vc-domain-verify=sad0xer.vercel.dev,9a179a383a2e52c4fd2d
